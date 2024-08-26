@@ -38,7 +38,7 @@ The Blinkit Dashboard is a comprehensive data analysis and visualization tool de
 ![Alt Text - Dashboard](https://github.com/Reetesh0007/Blinkit-Dashboard/blob/main/Images/Dashboard.png)
 
 ## Watch the Demo
-[![Watch the video](https://img.youtube.com/vi/)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Watch the video](https://img.youtube.com/vi/)](https://github.com/Reetesh0007/Blinkit-Dashboard/blob/main/Demo_Clip.mp4))
 
 
 ## Contact 
